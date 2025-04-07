@@ -8,7 +8,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saramoawad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Saramoawad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 ###
@@ -38,10 +37,6 @@
 ###
 
 <h3 align="left">Social Media</h3>
-
-###
-
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxxbnM0dG1odTE2azU4bnVza2R2OWNtdmN3d3NwdDl5amJ6MHA4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JpXje6i6NjmGHkO2Na/giphy.gif"  />
 
 ###
 
