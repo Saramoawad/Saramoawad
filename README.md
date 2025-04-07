@@ -48,10 +48,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saramoawad/Saramoawad/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saramoawad/Saramoawad/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Saramoawad/Saramoawad/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxxbnM0dG1odTE2azU4bnVza2R2OWNtdmN3d3NwdDl5amJ6MHA4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JpXje6i6NjmGHkO2Na/giphy.gif"  />
+</div>
 
 ###
